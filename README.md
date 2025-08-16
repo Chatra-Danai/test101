@@ -1,3 +1,3 @@
 # test101
 for devops learning
-ICT Mahidol
+ICT in Mahidol
